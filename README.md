@@ -12,31 +12,37 @@
   <tr>
     <td width="55%" valign="top" style="border: none; padding-right: 20px;">
       
-      ### <span style="color:#8A2BE2">👨‍💻 关于我 (About Me)</span>
+      <h3><span style="color:#8A2BE2">👨‍💻 关于我 (About Me)</span></h3>
       
-      > <span style="color:#6A5ACD">*"逻辑同步中，静待重生。"*</span>
+      <blockquote>
+        <span style="color:#6A5ACD"><b>"逻辑同步中，静待重生。"</b></span>
+      </blockquote>
       
-      - 🌐 **我的据点**: 正在维护 [**www.nw177.cn**](https://www.nw177.cn)
-      - 🔭 **当前折腾**: **VitePress** 静态站 & **Vue** 生态
-      - 🌱 **探索领域**: **Docker** 容器化 & **NAS** 运维
-      - 🖼️ **技术栈**: 自建图床 (PicList + R2/CDN)
-      - ⚡ **标签**: 极简主义 / 效率工具 / 长期主义
+      <ul>
+        <li>🌐 <b>我的据点</b>: 正在维护 <a href="https://www.nw177.cn"><b>www.nw177.cn</b></a></li>
+        <li>🔭 <b>当前折腾</b>: <b>VitePress</b> 静态站 & <b>Vue</b> 生态</li>
+        <li>🌱 <b>探索领域</b>: <b>Docker</b> 容器化 & <b>NAS</b> 运维</li>
+        <li>🖼️ <b>技术栈</b>: 自建图床 (PicList + R2/CDN)</li>
+        <li>⚡ <b>标签</b>: 极简主义 / 效率工具 / 长期主义</li>
+      </ul>
       
       <br/>
       
-      **🚀 快速传送:**
+      <b>🚀 快速传送:</b>
       <br/>
-      <a href="https://www.nw177.cn" target="_blank">
+      <br/>
+      <a href="https://www.nw177.cn">
         <img src="https://img.shields.io/badge/主站-www.nw177.cn-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" />
       </a>
-      <a href="https://www.nw177.cn" target="_blank">
+      &nbsp;
+      <a href="https://www.nw177.cn">
         <img src="https://img.shields.io/badge/博客-VitePress-9370DB?style=for-the-badge&logo=vite&logoColor=white" />
       </a>
 
     </td>
     <td width="45%" valign="top" style="border: none;">
       
-      ### <span style="color:#8A2BE2">📊 数据统计</span>
+      <h3><span style="color:#8A2BE2">📊 数据统计</span></h3>
       
       <div align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=SincReaper&show_icons=true&hide_border=true&title_color=8A2BE2&icon_color=9370DB&text_color=333333&bg_color=ffffff" />
@@ -50,7 +56,7 @@
 
 <br/>
 
-### <span style="color:#8A2BE2">🛠️ 技术栈 (Tech Stack)</span>
+<h3><span style="color:#8A2BE2">🛠️ 技术栈 (Tech Stack)</span></h3>
 
 <div align="left">
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
