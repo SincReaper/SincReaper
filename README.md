@@ -1,10 +1,19 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=SincReaper&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Syncing%20Code,%20Reaping%20Bugs&descAlignY=55&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=SincReaper&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Target%20Locked:%20www.nw177.cn&descAlignY=60&descSize=20" width="100%" />
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6495ED&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+SincReaper;Self-hosting+Enthusiast+%F0%9F%9B%A0%EF%B8%8F;VitePress+Theme+Builder+%F0%9F%8E%A8;Docker+%26+Server+Ops+%F0%9F%90%B3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6495ED&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+SincReaper;Visit+My+Site+run+at+www.nw177.cn;VitePress+Theme+Builder+%F0%9F%8E%A8;Docker+%26+Server+Ops+%F0%9F%90%B3" alt="Typing SVG" />
 </h3>
+
+<div align="center">
+  <a href="https://www.nw177.cn" target="_blank">
+    <img src="https://img.shields.io/badge/Main_Site-www.nw177.cn-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.nw177.cn" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-VitePress-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  </a>
+</div>
 
 <hr/>
 
@@ -16,9 +25,9 @@
       
       > *"Synchronizing logic, waiting for the rebirth."*
       
+      - 🌐 **My World**: Currently maintaining [**www.nw177.cn**](https://www.nw177.cn).
       - 🔭 I’m currently building sites with **VitePress & Vue**.
       - 🌱 I’m constantly exploring **Docker & Self-hosting**.
-      - 🖼️ Expert in **Image Hosting Solutions** (R2, CDN, PicList).
       - ⚡ Fun fact: I love minimalistic designs & optimizing servers.
       
       ### 🛠️ Tech Stack
@@ -34,11 +43,6 @@
         <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
         <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-      </p>
-      
-      <p>
-        <img src="https://img.shields.io/badge/PicList-blue?style=for-the-badge&logo=googlephotos&logoColor=white" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
       </p>
 
     </td>
